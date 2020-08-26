@@ -8,7 +8,7 @@ public class IndexController {
 
     @GetMapping("/hello")
     public String hello(){
-        return "hello ~";
+        return "hello ~ LOL REAL MATCHING!!!";
     }
 
 }
